@@ -1,0 +1,5 @@
+package.json - is a manifest file (stores important file 
+about projects/package)
+
+//npm init -y (we get default setting file)
+we can of coursse go back and set everthing up
